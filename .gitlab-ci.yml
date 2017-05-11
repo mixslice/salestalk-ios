@@ -1,0 +1,11 @@
+before_script:
+- export PATH=/usr/local/opt/rbenv/shims:/usr/local/opt/rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+- fastlane -v 
+- pod install --no-repo-update
+
+test:
+  script:
+  - fastlane test
+  tags:
+  except:
+  - tags

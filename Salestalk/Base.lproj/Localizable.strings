@@ -1,0 +1,39 @@
+/****************************************************************************/
+/* Localization file */
+
+
+"LOGIN_TITLE" = "Login";
+"REGISTER_TITLE" = "Register";
+"SEND_BUTTON_TITLE" = "Send";
+"MESSAGE_TEXT_FIELD_PLACEHOLDER" = "Message";
+"START_TITLE" = "Start";
+"NAME_FIELD_PLACEHOLDER" = "Phone Number";
+"REGISTER_HELPER_TEXT" = "New to Maihoo?\n";
+"NEXT_TITLE" = "Next";
+"PHONE_NUMBER_INVALID_INFO_EMPTY" = "Please input your phone number";
+"SLOGAN_TEXT" = "this is slogan";
+"SEND_VERIFY_CODE_TITLE" = "Send Verify Code";
+"RESEND_VERIFY_CODE_TITLE" = "Resend verify code";
+"RESEND_VERIFY_CODE_WITH_%@" = "Resend verify code (%@)";
+"YOUR_PHONE_NUMBER_IS" = "Your phone number is";
+"BACK_TITLE" = "Back";
+"VERIFY_PAGE_TITLE" = "Verify";
+"PLEASE_ENTER_VERIFY_CODE" = "Please enter verify code below";
+"LOGIN_WITH_PASSWORD" = "Login with password";
+"PASSWORD_VIEW_TITLE" = "Password";
+"PASSWORD_INVALID_INFO" = "Invalid password, please try again";
+"PASSFIELD_PLACEHOLDER" = "Password";
+"SETTINGS_PAGE_TITLE" = "Settings";
+"LOGOUT_TITLE" = "Logout";
+"CANCEL" = "Cancel";
+"BRANDS_PAGE_TITLE" = "Brands";
+"BRAND_DESCRIPTION_SECTION_HEADER" = "Description";
+"BRAND_EVENTS_SECTION_HEADER" = "Event";
+"SEND_MESSAGE_TITLE" = "Message";
+"FOLLOW" = "Add to Contact";
+"UNFOLLOW" = "Remove from Contact";
+"Search" = "Search";
+"ACCOUNT_SETTINGS_TITLE" = "Account";
+"NEW_MESSAGE" = "New Message";
+"CONNECTING" = "Connecting";
+"Back" = "Back";

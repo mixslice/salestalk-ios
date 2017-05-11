@@ -1,0 +1,20 @@
+//
+// Created by Zhang Zeqing on 5/5/15.
+// Copyright (c) 2015 NYSNETECH. All rights reserved.
+//
+
+#import "UIViewController+NTTabBarController.h"
+
+
+@implementation UIViewController (NTTabBarController)
+
+- (NTTabBarController *)nt_tabBarController {
+    UIViewController *parentVC = self.parentViewController;
+    while (parentVC && ![parentVC isKindOfClass:[NTTabBarController class]]) {
+        parentVC = parentVC.parentViewController;
+    }
+    return (NTTabBarController *) parentVC;
+}
+
+
+@end

@@ -1,0 +1,39 @@
+/****************************************************************************/
+/* Localization file */
+
+
+"LOGIN_TITLE" = "登录";
+"REGISTER_TITLE" = "注册";
+"SEND_BUTTON_TITLE" = "发送";
+"MESSAGE_TEXT_FIELD_PLACEHOLDER" = "消息";
+"START_TITLE" = "开始";
+"NAME_FIELD_PLACEHOLDER" = "手机号";
+"REGISTER_HELPER_TEXT" = "还未注册卖乎？\n";
+"NEXT_TITLE" = "下一步";
+"PHONE_NUMBER_INVALID_INFO_EMPTY" = "请填写手机号";
+"SLOGAN_TEXT" = "我是一条标语";
+"SEND_VERIFY_CODE_TITLE" = "发送验证码";
+"RESEND_VERIFY_CODE_TITLE" = "重新发送验证码";
+"RESEND_VERIFY_CODE_WITH_%@" = "重新发送验证码 (%@)";
+"YOUR_PHONE_NUMBER_IS" = "您的手机号是";
+"BACK_TITLE" = "返回";
+"VERIFY_PAGE_TITLE" = "验证";
+"PLEASE_ENTER_VERIFY_CODE" = "请输入验证码";
+"LOGIN_WITH_PASSWORD" = "使用密码登录";
+"PASSWORD_VIEW_TITLE" = "密码";
+"PASSWORD_INVALID_INFO" = "密码不正确，请再次尝试";
+"PASSFIELD_PLACEHOLDER" = "密码";
+"SETTINGS_PAGE_TITLE" = "设置";
+"LOGOUT_TITLE" = "登出";
+"CANCEL" = "取消";
+"BRANDS_PAGE_TITLE" = "品牌";
+"BRAND_DESCRIPTION_SECTION_HEADER" = "详情";
+"BRAND_EVENTS_SECTION_HEADER" = "事件";
+"SEND_MESSAGE_TITLE" = "发消息";
+"FOLLOW" = "加为联系人";
+"UNFOLLOW" = "删除联系人";
+"Search" = "搜索";
+"ACCOUNT_SETTINGS_TITLE" = "账号";
+"NEW_MESSAGE" = "新消息";
+"CONNECTING" = "正在连接";
+"Back" = "返回";
